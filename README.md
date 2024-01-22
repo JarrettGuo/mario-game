@@ -31,6 +31,3 @@ Before running the game, make sure you have the following installed:
 - Multiple levels with increasing difficulty.
 - A variety of enemies and obstacles.
 - Power-ups like mushrooms and flowers to enhance Mario's abilities.
-
-## Technical Details
-This section can include technical aspects of your game, like how the game loop is implemented, how collision detection is handled, or any other technical details that might be interesting to developers or technically savvy players.
